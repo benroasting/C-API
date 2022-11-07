@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "i2NrRqWOzBu2nchiVKBkvW/UpohnUddxVl/4HpF9XYST+yWBxA3baursrau5FD/djoh38ft+1/MUga8L72zdpg==",
+  "success": true,
+  "projectFilePath": "/Users/ben.young/Documents/Development/Learning/C#API/CityInfo.API/CityInfo.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/ben.young/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/ben.young/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512",
+    "/Users/ben.young/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
